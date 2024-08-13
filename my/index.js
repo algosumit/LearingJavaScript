@@ -1,1 +1,1 @@
-console.log(AlgoSumit)
+console.log("algoSumit");
